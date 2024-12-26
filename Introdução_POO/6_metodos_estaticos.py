@@ -1,6 +1,5 @@
  #CLS rRECEBE O ESTADO DA CLASSE, AS INFORMAÇÕES DA CLASSE.
 #ATRAVEZ DO CLS PODEMOS CRIAR E MODIFICAR ATRIBUTOS DA CLASSE.
-
 class Pessoas:
     possui_olho = True
     possui_boca = True
