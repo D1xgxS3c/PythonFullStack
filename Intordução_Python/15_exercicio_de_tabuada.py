@@ -1,6 +1,5 @@
 #Receba um número do usuário e mostra a taubuada desse número
 
-
 n1 = int(input('Digite qual númro deseja saber a tabuada: '))
 
 i = 1
