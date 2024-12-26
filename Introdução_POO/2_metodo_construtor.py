@@ -5,7 +5,6 @@ class Pessoas:
     def logar_sistema(self):
         print(f' Estou logando no sistema!')
 
-
 pessoa1 = Pessoas('Diego Carvalho',37,'319039103313')
 
 
