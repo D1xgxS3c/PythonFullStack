@@ -2,6 +2,7 @@
 
 numero = int(input('Digite o número: '))
 
+
 if numero > 0:
     print(f'O numero {numero} é positivo')
 elif numero < 0:
