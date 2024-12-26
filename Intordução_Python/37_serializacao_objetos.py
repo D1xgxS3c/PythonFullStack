@@ -8,6 +8,7 @@ print(pickle.loads(string)['nome'])
 print(pickle.loads(string)['idade'])
 
 
+
 #SERIALIZANDO
 
 list = [1,2,3,4]
