@@ -1,7 +1,6 @@
 from model import Pessoa
 from dal import PessoaDal
 
-
 class PessoaController:
     @classmethod
     def Cadastrar(cls, nome, idade, cpf):
