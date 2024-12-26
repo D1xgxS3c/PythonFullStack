@@ -6,4 +6,5 @@ for i in idades:
     if i % 2 == 0:
         idades_pares.append(i)
 
+
 print(idades_pares)
