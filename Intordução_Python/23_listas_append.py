@@ -8,6 +8,7 @@ while True:
     if nome == "-1":
         break
     
+    
     nomes.append(nome)
     
 print(nomes)
