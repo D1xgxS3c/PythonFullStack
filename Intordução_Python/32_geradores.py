@@ -19,7 +19,6 @@ def double():
     yield 2
     yield 3
 
-
 t = double()
 
 print(next(t))
