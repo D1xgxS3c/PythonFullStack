@@ -4,6 +4,7 @@
 print('Digite a nota 1')
 nota1 = input()
 
+
 print('Digite a nota 2')
 nota2 = input()
 
