@@ -1,6 +1,6 @@
 #quanto de memoria um determinado dado esta ocupando
 
-from pympler.asizeof import asizesof
+from pympler.asizeof import asizesof # type: ignore
 
 def dobro(lista):
     lista_dobro = []
