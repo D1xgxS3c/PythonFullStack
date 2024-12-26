@@ -21,4 +21,5 @@ operadores = (5 == 7 or 3 >= 3)#True
 operadores = (5 == 7 or 3 >= 3)#True
 operadores = not (5 == 7 or 3 >= 3)#False
 
+
 print(operadores)
