@@ -1,5 +1,6 @@
 #LISTAS APPEND
 
+
 nomes = []
 
 while True:
