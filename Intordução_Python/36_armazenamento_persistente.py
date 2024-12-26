@@ -17,6 +17,7 @@ for i in resultados:
 print(x[0])
 arquivo.close()
 
+
 ##############################################################################################
 #OUTRA FORMA DDE LER O ARQUIVO COM WITH QUE FECHA O ARQUIVO AUTOMATICO EM VEZ DO CLOSE.
 with open('pessoas.txt', 'r') as arq:
