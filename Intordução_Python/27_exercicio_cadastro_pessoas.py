@@ -8,6 +8,7 @@ while True:
     if decisao == 2:
         break
 
+
     nome = input('Digite o nome: ')
     idade = input('Digite a idade: ')
     altura = input('Digite a altura: ')
