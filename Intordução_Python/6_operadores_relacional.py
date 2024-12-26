@@ -1,6 +1,5 @@
  # > < == != <= =>
 
-
 operador_maior = 2 > 1 # true
 operador_menor = 1 < 2 # true
 operador_igual = 2 == 2 # true
