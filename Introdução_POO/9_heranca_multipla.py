@@ -9,7 +9,6 @@ class Animal:
     def pular(self):
         print('eSTOU pulando')
 
-
 class Felino(Animal):
     def felino(self):
         print('eu sou um felino')
