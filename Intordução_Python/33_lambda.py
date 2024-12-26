@@ -1,5 +1,4 @@
 
-
 t = lambda nome, idade: print(f'nome = {nome}\n idade = {idade}')
 t('Diego', 37)
 
