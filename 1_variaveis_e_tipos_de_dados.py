@@ -5,3 +5,6 @@
 # -> Processar dados
 # -> Exibir dados
 
+idade = 21
+print(idade)
+
